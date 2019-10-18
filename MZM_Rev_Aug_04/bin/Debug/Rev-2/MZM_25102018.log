@@ -1,0 +1,9 @@
+25-Oct-2018 07:39:38 :USR:Form1_Load:----------------------------------------------------
+25-Oct-2018 07:39:38 :USR:Form1_Load:Program is started
+25-Oct-2018 07:39:38 :USR:initGPIO: Open serial port SUCCESS  
+25-Oct-2018 07:39:38 :USR:initGPIO: Send pattern select command succeed!   
+25-Oct-2018 07:39:41 :USR:setGPIO:Send SINGLE parameter command succeed!
+25-Oct-2018 07:39:41 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+25-Oct-2018 07:39:41 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+25-Oct-2018 07:39:41 :USR:timer3_Tick: !!! QR is blank !!! -- Job fail
+25-Oct-2018 07:39:43 :USR:setGPIO:Send SINGLE parameter command succeed!

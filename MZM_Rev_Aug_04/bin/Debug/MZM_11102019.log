@@ -1,0 +1,8 @@
+11-Oct-2019 08:39:31 :USR:Form1_Load:----------------------------------------------------
+11-Oct-2019 08:39:31 :USR:Form1_Load:Program is started
+11-Oct-2019 08:39:32 :USR:initGPIO: Open serial port SUCCESS  
+11-Oct-2019 08:39:32 :USR:initGPIO: Send pattern select command succeed!   
+11-Oct-2019 08:39:35 :USR:setGPIO:Send SINGLE parameter command succeed!
+11-Oct-2019 08:39:35 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+11-Oct-2019 08:39:35 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+11-Oct-2019 08:39:36 :USR:setGPIO:Send SINGLE parameter command succeed!

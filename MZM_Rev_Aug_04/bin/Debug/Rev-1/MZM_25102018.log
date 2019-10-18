@@ -1,0 +1,11 @@
+25-Oct-2018 07:39:55 :USR:Form1_Load:----------------------------------------------------
+25-Oct-2018 07:39:55 :USR:Form1_Load:Program is started
+25-Oct-2018 07:39:55 :USR:initGPIO: Open serial port SUCCESS  
+25-Oct-2018 07:39:55 :USR:initGPIO: Send pattern select command succeed!   
+25-Oct-2018 07:39:58 :USR:setGPIO:Send SINGLE parameter command succeed!
+25-Oct-2018 07:39:58 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+25-Oct-2018 07:39:58 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+25-Oct-2018 07:39:58 :USR:timer3_Tick: !!! QR is blank !!! -- Job fail
+25-Oct-2018 07:39:59 :USR:setGPIO:Send SINGLE parameter command succeed!
+25-Oct-2018 07:40:03 :SYS:connectWeight:No connection could be made because the target machine actively refused it 192.168.56.1:23 [PIPE IS BROKEN]
+25-Oct-2018 07:40:07 :SYS:connectWeight:No connection could be made because the target machine actively refused it 192.168.56.1:23 [PIPE IS BROKEN]

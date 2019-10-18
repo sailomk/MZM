@@ -1,0 +1,654 @@
+27-Oct-2018 08:51:18 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 08:51:18 :USR:Form1_Load:Program is started
+27-Oct-2018 08:51:18 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 08:51:18 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 08:51:21 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 08:51:21 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 08:51:21 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 08:51:51 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 08:51:53 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 08:54:20 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 08:54:20 :USR:Form1_Load:Program is started
+27-Oct-2018 08:54:21 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 08:54:21 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 08:54:24 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 08:54:24 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 08:54:24 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 08:55:08 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 08:55:08 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 08:56:51 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 08:56:51 :USR:Form1_Load:Program is started
+27-Oct-2018 08:56:52 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 08:56:52 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 08:56:55 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 08:56:55 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 08:56:55 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 08:57:11 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 08:57:14 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:00:42 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 09:00:42 :USR:Form1_Load:Program is started
+27-Oct-2018 09:00:42 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 09:00:42 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 09:00:45 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:00:45 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 09:00:45 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 09:00:51 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 09:00:53 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:01:56 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 09:01:56 :USR:Form1_Load:Program is started
+27-Oct-2018 09:01:56 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 09:01:56 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 09:01:59 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:01:59 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 09:01:59 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 09:02:09 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 09:02:48 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 09:02:54 :USR --GetWeight -- :getWeight:101.56
+
+
+27-Oct-2018 09:05:10 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 09:05:10 :USR:Form1_Load:Program is started
+27-Oct-2018 09:05:10 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 09:05:10 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 09:05:13 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:05:13 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 09:05:13 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 09:05:25 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:05:49 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 09:16:53 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 09:16:53 :USR:Form1_Load:Program is started
+27-Oct-2018 09:16:53 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 09:16:53 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 09:16:56 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:16:56 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 09:16:56 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 09:17:15 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 09:17:29 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 09:17:36 :USR --GetWeight -- :getWeight:101.56
+
+
+27-Oct-2018 09:17:44 :USR --GetWeight -- :getWeight:102.56
+
+
+27-Oct-2018 09:17:50 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:17:50 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 09:17:50 :USR --GetWeight -- :getWeight:103.56
+
+
+27-Oct-2018 09:17:56 :USR --GetWeight -- :getWeight:104.56
+
+
+27-Oct-2018 09:18:03 :USR --GetWeight -- :getWeight:105.56
+
+
+27-Oct-2018 09:18:09 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:31:10 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 09:31:10 :USR:Form1_Load:Program is started
+27-Oct-2018 09:31:10 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 09:31:10 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 09:31:13 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:31:13 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 09:31:13 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 09:31:21 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 09:33:16 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 09:33:48 :USR --GetWeight -- :getWeight:101.56
+
+
+27-Oct-2018 09:33:53 :USR --GetWeight -- :getWeight:102.56
+
+
+27-Oct-2018 09:33:58 :USR --GetWeight -- :getWeight:103.56
+
+
+27-Oct-2018 09:34:10 :USR --GetWeight -- :getWeight:104.56
+
+
+27-Oct-2018 09:34:15 :USR --GetWeight -- :getWeight:105.56
+
+
+27-Oct-2018 09:34:18 :USR --GetWeight -- :getWeight:106.56
+
+
+27-Oct-2018 09:34:21 :USR --GetWeight -- :getWeight:107.56
+
+
+27-Oct-2018 09:35:09 :USR --GetWeight -- :getWeight:108.56
+
+
+27-Oct-2018 09:35:10 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:35:10 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 09:44:29 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 09:44:29 :USR:Form1_Load:Program is started
+27-Oct-2018 09:44:29 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 09:44:29 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 09:44:32 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:44:32 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 09:44:32 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 09:44:37 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 09:44:44 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 09:44:49 :USR --GetWeight -- :getWeight:101.56
+
+
+27-Oct-2018 09:45:28 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:45:28 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 09:45:29 :USR --GetWeight -- :getWeight:102.56
+
+
+27-Oct-2018 09:45:32 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:45:42 :USR --GetWeight -- :getWeight:103.56
+
+
+27-Oct-2018 09:45:58 :USR --GetWeight -- :getWeight:104.56
+
+
+27-Oct-2018 09:48:26 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 09:48:26 :USR:Form1_Load:Program is started
+27-Oct-2018 09:48:26 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 09:48:26 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 09:48:29 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:48:29 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 09:48:29 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 09:48:33 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 09:48:41 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 09:48:46 :USR --GetWeight -- :getWeight:101.56
+
+
+27-Oct-2018 09:48:51 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:48:51 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 09:48:51 :USR --GetWeight -- :getWeight:102.56
+
+
+27-Oct-2018 09:48:54 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:48:57 :USR --GetWeight -- :getWeight:103.56
+
+
+27-Oct-2018 09:49:04 :USR --GetWeight -- :getWeight:104.56
+
+
+27-Oct-2018 09:49:10 :USR --GetWeight -- :getWeight:105.56
+
+
+27-Oct-2018 09:49:15 :USR --GetWeight -- :getWeight:106.56
+
+
+27-Oct-2018 09:52:24 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 09:52:24 :USR:Form1_Load:Program is started
+27-Oct-2018 09:52:24 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 09:52:24 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 09:52:27 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:52:27 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 09:52:27 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 09:52:30 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 09:52:36 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 09:52:41 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:52:41 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 09:52:42 :USR --GetWeight -- :getWeight:101.56
+
+
+27-Oct-2018 09:52:46 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:52:50 :USR --GetWeight -- :getWeight:102.56
+
+
+27-Oct-2018 09:52:52 :CASE#5 LOST QR:PHOENIX_ENGINE:!!! WEIGHT IS DETECTED BUT MISSED QR IN 1500 ms !!! 
+27-Oct-2018 09:52:52 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:52:54 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:52:57 :USR --GetWeight -- :getWeight:103.56
+
+
+27-Oct-2018 09:54:13 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 09:54:13 :USR:Form1_Load:Program is started
+27-Oct-2018 09:54:13 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 09:54:13 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 09:54:16 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:54:16 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 09:54:16 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 09:54:22 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 09:54:29 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 09:54:33 :USR --GetWeight -- :getWeight:101.56
+
+
+27-Oct-2018 09:54:33 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:54:33 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 09:54:35 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:54:42 :USR --GetWeight -- :getWeight:102.56
+
+
+27-Oct-2018 09:54:52 :USR --GetWeight -- :getWeight:103.56
+
+
+27-Oct-2018 09:54:55 :USR --GetWeight -- :getWeight:104.56
+
+
+27-Oct-2018 09:54:57 :USR --GetWeight -- :getWeight:105.56
+
+
+27-Oct-2018 09:54:59 :USR --GetWeight -- :getWeight:106.56
+
+
+27-Oct-2018 09:58:54 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 09:58:54 :USR:Form1_Load:Program is started
+27-Oct-2018 09:58:54 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 09:58:54 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 09:58:58 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:58:58 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 09:58:58 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 09:59:08 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 09:59:23 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 09:59:30 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:59:30 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 09:59:30 :USR --GetWeight -- :getWeight:101.56
+
+
+27-Oct-2018 09:59:34 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:59:41 :USR --GetWeight -- :getWeight:102.56
+
+
+27-Oct-2018 09:59:48 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 09:59:59 :USR --GetWeight -- :getWeight:103.56
+
+
+27-Oct-2018 10:00:03 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:00:34 :USR --GetWeight -- :getWeight:104.56
+
+
+27-Oct-2018 10:00:34 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:00:34 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 10:00:37 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:01:51 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:04:32 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 10:04:32 :USR:Form1_Load:Program is started
+27-Oct-2018 10:04:32 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 10:04:32 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 10:04:35 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:04:35 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 10:04:35 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 10:04:47 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 10:04:54 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:09:48 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 10:09:48 :USR:Form1_Load:Program is started
+27-Oct-2018 10:09:48 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 10:09:48 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 10:09:51 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:09:51 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 10:09:51 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 10:10:28 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 10:10:28 :USR:Form1_Load:Program is started
+27-Oct-2018 10:10:28 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 10:10:28 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 10:10:31 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:10:31 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 10:10:31 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 10:12:02 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 10:12:02 :USR:Form1_Load:Program is started
+27-Oct-2018 10:12:02 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 10:12:02 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 10:12:05 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:12:05 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 10:12:05 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 10:12:09 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 10:12:48 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:13:08 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:13:29 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:13:41 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 10:13:41 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 10:14:47 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:14:50 :USR --GetWeight -- :getWeight:101.56
+
+
+27-Oct-2018 10:14:51 :CASE#5 LOST QR:PHOENIX_ENGINE:!!! WEIGHT IS DETECTED BUT MISSED QR IN 1500 ms !!! 
+27-Oct-2018 10:14:51 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:15:08 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:15:11 :USR --GetWeight -- :getWeight:102.56
+
+
+27-Oct-2018 10:15:12 :CASE#5 LOST QR:PHOENIX_ENGINE:!!! WEIGHT IS DETECTED BUT MISSED QR IN 1500 ms !!! 
+27-Oct-2018 10:15:12 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:15:16 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:15:23 :USR --GetWeight -- :getWeight:103.56
+
+
+27-Oct-2018 10:16:02 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:16:10 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 10:16:10 :USR:Form1_Load:Program is started
+27-Oct-2018 10:16:10 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 10:16:10 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 10:16:13 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:16:13 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 10:16:13 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 10:16:16 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 10:16:19 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:16:42 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:16:51 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 10:16:56 :USR --GetWeight -- :getWeight:101.56
+
+
+27-Oct-2018 10:17:03 :USR --GetWeight -- :getWeight:102.56
+
+
+27-Oct-2018 10:17:14 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:17:14 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 10:17:14 :USR --GetWeight -- :getWeight:103.56
+
+
+27-Oct-2018 10:17:23 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:17:29 :USR --GetWeight -- :getWeight:104.56
+
+
+27-Oct-2018 10:17:38 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:17:38 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 10:17:43 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:19:24 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 10:19:24 :USR:Form1_Load:Program is started
+27-Oct-2018 10:19:24 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 10:19:24 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 10:19:27 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:19:27 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 10:19:27 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 10:19:30 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 10:19:38 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 10:19:45 :USR --GetWeight -- :getWeight:101.56
+
+
+27-Oct-2018 10:19:50 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:19:50 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 10:19:50 :USR --GetWeight -- :getWeight:102.56
+
+
+27-Oct-2018 10:19:52 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:19:55 :USR --GetWeight -- :getWeight:103.56
+
+
+27-Oct-2018 10:19:57 :CASE#5 LOST QR:PHOENIX_ENGINE:!!! WEIGHT IS DETECTED BUT MISSED QR IN 1500 ms !!! 
+27-Oct-2018 10:19:57 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:20:02 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:23:08 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 10:23:08 :USR:Form1_Load:Program is started
+27-Oct-2018 10:23:08 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 10:23:08 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 10:23:11 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:23:11 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 10:23:11 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 10:24:10 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:24:10 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 10:24:10 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 10:24:19 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:37:12 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 10:43:28 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:43:28 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 10:43:33 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:48:43 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:48:49 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 10:48:58 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:57:52 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 10:57:52 :USR:Form1_Load:Program is started
+27-Oct-2018 10:57:52 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 10:57:52 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 10:57:58 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 10:57:58 :USR:Form1_Load:Program is started
+27-Oct-2018 10:57:58 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 10:57:58 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 10:58:01 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:58:01 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 10:58:01 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 10:58:17 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 10:58:17 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 10:58:18 :CASE#2 LONGTIME LOST WEIGHT :PHOENIX_ENGINE:,27-10-2018 10:58:16
+27-Oct-2018 10:58:21 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:09:10 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 11:09:10 :USR:Form1_Load:Program is started
+27-Oct-2018 11:09:10 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 11:09:10 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 11:09:13 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:09:13 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 11:09:13 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 11:09:21 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 11:09:21 :USR:Form1_Load:Program is started
+27-Oct-2018 11:09:21 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 11:09:21 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 11:09:24 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:09:24 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 11:09:24 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 11:09:34 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 11:09:47 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 11:10:05 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:10:05 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 11:10:08 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:10:10 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:10:10 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 11:10:12 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:10:16 :USR --GetWeight -- :getWeight:101.56
+
+
+27-Oct-2018 11:10:16 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:10:16 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 11:10:19 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:10:22 :USR --GetWeight -- :getWeight:102.56
+
+
+27-Oct-2018 11:10:51 :USR --GetWeight -- :getWeight:103.56
+
+
+27-Oct-2018 11:10:59 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:11:02 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:11:08 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:11:14 :USR --GetWeight -- :getWeight:104.56
+
+
+27-Oct-2018 11:11:16 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:11:19 :USR --GetWeight -- :getWeight:105.56
+
+
+27-Oct-2018 11:11:19 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:11:19 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 11:11:22 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 11:11:23 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:11:30 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:11:30 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 11:11:39 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:11:44 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:11:48 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:11:52 :USR --GetWeight -- :getWeight:106.56
+
+
+27-Oct-2018 11:12:46 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 11:12:46 :USR:Form1_Load:Program is started
+27-Oct-2018 11:12:46 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 11:12:46 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 11:12:49 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:12:49 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 11:12:49 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 11:12:54 :SYS:connectWeight:No connection could be made because the target machine actively refused it 192.168.56.1:23 [PIPE IS BROKEN]
+27-Oct-2018 11:12:54 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:12:57 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:12:58 :SYS:connectWeight:No connection could be made because the target machine actively refused it 192.168.56.1:23 [PIPE IS BROKEN]
+27-Oct-2018 11:12:58 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:30:41 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 11:30:41 :USR:Form1_Load:Program is started
+27-Oct-2018 11:30:41 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 11:30:41 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 11:30:44 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:30:44 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 11:30:44 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 11:30:49 :SYS:connectWeight:No connection could be made because the target machine actively refused it 192.168.56.1:23 [PIPE IS BROKEN]
+27-Oct-2018 11:30:49 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:30:53 :SYS:connectWeight:No connection could be made because the target machine actively refused it 192.168.56.1:23 [PIPE IS BROKEN]
+27-Oct-2018 11:30:57 :SYS:connectWeight:No connection could be made because the target machine actively refused it 192.168.56.1:23 [PIPE IS BROKEN]
+27-Oct-2018 11:31:02 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:31:02 :SYS:connectWeight:No connection could be made because the target machine actively refused it 192.168.56.1:23 [PIPE IS BROKEN]
+27-Oct-2018 11:31:02 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:31:50 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 11:31:50 :USR:Form1_Load:Program is started
+27-Oct-2018 11:31:50 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 11:31:50 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 11:31:53 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:31:53 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 11:31:53 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 11:31:58 :SYS:connectWeight:No connection could be made because the target machine actively refused it 192.168.56.1:23 [PIPE IS BROKEN]
+27-Oct-2018 11:31:58 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 11:32:02 :SYS:connectWeight:No connection could be made because the target machine actively refused it 192.168.56.1:23 [PIPE IS BROKEN]
+27-Oct-2018 11:32:07 :SYS:connectWeight:No connection could be made because the target machine actively refused it 192.168.56.1:23 [PIPE IS BROKEN]
+27-Oct-2018 11:32:11 :SYS:connectWeight:No connection could be made because the target machine actively refused it 192.168.56.1:23 [PIPE IS BROKEN]
+27-Oct-2018 12:12:47 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 12:12:47 :USR:Form1_Load:Program is started
+27-Oct-2018 12:12:47 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 12:12:47 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 12:12:50 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:12:50 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 12:12:50 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 12:13:13 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 12:13:16 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:13:27 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:13:32 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 12:14:15 :USR --GetWeight -- :getWeight:101.56
+
+
+27-Oct-2018 12:14:27 :USR --GetWeight -- :getWeight:102.56
+
+
+27-Oct-2018 12:15:41 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:15:41 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 12:15:41 :USR --GetWeight -- :getWeight:103.56
+
+
+27-Oct-2018 12:15:43 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:16:04 :USR --GetWeight -- :getWeight:104.56
+
+
+27-Oct-2018 12:16:20 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:17:36 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:17:45 :USR --GetWeight -- :getWeight:105.56
+
+
+27-Oct-2018 12:25:31 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 12:25:31 :USR:Form1_Load:Program is started
+27-Oct-2018 12:25:31 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 12:25:31 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 12:25:34 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:25:34 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 12:25:34 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 12:41:06 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 12:41:06 :USR:Form1_Load:Program is started
+27-Oct-2018 12:41:06 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 12:41:06 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 12:41:09 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:41:09 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 12:41:09 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 12:41:13 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 12:45:10 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 12:45:10 :USR:Form1_Load:Program is started
+27-Oct-2018 12:45:10 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 12:45:10 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 12:45:13 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:45:13 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 12:45:13 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 12:45:15 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 12:45:17 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:46:13 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 12:46:13 :USR:Form1_Load:Program is started
+27-Oct-2018 12:46:13 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 12:46:13 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 12:46:16 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:46:16 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 12:46:16 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 12:46:21 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 12:46:34 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 12:46:39 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:46:39 :USR:timer3_Tick: !!! QR is Fail [CAM 1 and CAM 2]  !!! -- Job fail
+27-Oct-2018 12:46:39 :USR --GetWeight -- :getWeight:101.56
+
+
+27-Oct-2018 12:46:42 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:46:47 :USR --GetWeight -- :getWeight:102.56
+
+
+27-Oct-2018 12:48:00 :USR:Form1_Load:----------------------------------------------------
+27-Oct-2018 12:48:00 :USR:Form1_Load:Program is started
+27-Oct-2018 12:48:00 :USR:initGPIO: Open serial port SUCCESS  
+27-Oct-2018 12:48:00 :USR:initGPIO: Send pattern select command succeed!   
+27-Oct-2018 12:48:03 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:48:03 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+27-Oct-2018 12:48:03 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+27-Oct-2018 12:48:07 :USR --GetWeight -- :getWeight:99.56
+
+
+27-Oct-2018 12:48:23 :USR --GetWeight -- :getWeight:100.56
+
+
+27-Oct-2018 12:49:08 :USR:setGPIO:Send SINGLE parameter command succeed!
+27-Oct-2018 12:49:47 :USR:setGPIO:Send SINGLE parameter command succeed!
