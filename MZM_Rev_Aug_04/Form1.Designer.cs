@@ -92,6 +92,7 @@
             this.tcpServer1 = new tcpServer.TcpServer(this.components);
             this.tcpServer2 = new tcpServer.TcpServer(this.components);
             this.timer3 = new System.Windows.Forms.Timer(this.components);
+            this.backgroundWorker3 = new System.ComponentModel.BackgroundWorker();
             this.groupBox1.SuspendLayout();
             this.groupBox12.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -840,6 +841,13 @@
             this.timer3.Interval = 500;
             this.timer3.Tick += new System.EventHandler(this.timer3_Tick);
             // 
+            // backgroundWorker3
+            // 
+            this.backgroundWorker3.WorkerReportsProgress = true;
+            this.backgroundWorker3.WorkerSupportsCancellation = true;
+            this.backgroundWorker3.DoWork += new System.ComponentModel.DoWorkEventHandler(this.backgroundWorker3_DoWork);
+            this.backgroundWorker3.ProgressChanged += new System.ComponentModel.ProgressChangedEventHandler(this.backgroundWorker3_ProgressChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -960,6 +968,7 @@
         private System.Windows.Forms.GroupBox groupBox12;
         private System.Windows.Forms.Button btnImg2;
         private System.Windows.Forms.Timer timer3;
+        private System.ComponentModel.BackgroundWorker backgroundWorker3;
     }
 }
 

@@ -28,6 +28,8 @@ namespace MZM_Rev_Aug_04
         public int maxImage = 10;
 
         public string CAM_IP, CAM_IP_2, WEIGHT_IP, IMG_LOCATION, DB_NAME, DB_USER, DB_PASSWORD, DB_IP, COMPENSATE, DBP_IP, WATCHDOG, CAM_1_BUF, IMG_LOCATION_C1, IMG_LOCATION_C2,WAIT_CAM;
+        public int DBLOOP_COUNT, DBFAIL_COUNT, DBHB_TIME;    // @OCt 2019 for special DB Checking
+        public int noDBFailCount,indexDBCount;                               // @OCt 2019 for special DB Checking
         public string imgStatus, imgStatus_2, curImage, img_F_Name, img_F_Name_2 = "";
         public bool alarmFlag = false;
         ArrayList weightList = new ArrayList();
@@ -74,6 +76,12 @@ namespace MZM_Rev_Aug_04
                 ReadConfiguration();
                 initLED();
                 txtQRCode.Text = "";
+
+
+                noDBFailCount = 0;
+                indexDBCount = 0;
+
+
              //   txtQRCode1.Text = "";
              //   txtQRCode2.Text = "";
 
@@ -81,7 +89,7 @@ namespace MZM_Rev_Aug_04
                 System.Windows.Forms.Timer tmr = new System.Windows.Forms.Timer();
                 tmr.Interval = 1000;//ticks every 1 second
                 tmr.Tick += new EventHandler(tmr_Tick);
-                tmr.Start();
+                tmr.Start();   //Realtime display current date/time
 
 
                 
@@ -89,7 +97,8 @@ namespace MZM_Rev_Aug_04
                 btnChangePort_Click(null, null);
                 timer1.Enabled = true;
 
-                backgroundWorker1.RunWorkerAsync(); 
+                backgroundWorker1.RunWorkerAsync();
+                backgroundWorker3.RunWorkerAsync();  //@OCt 2019 --Special DB Checking
                 startMettler();
                 timer2.Interval = Convert.ToInt32(WATCHDOG);
                 
@@ -991,6 +1000,18 @@ namespace MZM_Rev_Aug_04
                         case "WAIT_CAM":
                             WAIT_CAM = lineConfig[1];
                             break;
+
+                        // @Oct 2019 for Special DB Checking
+                        case "DBLOOP_COUNT":
+                            DBLOOP_COUNT = Convert.ToInt16(lineConfig[1]);
+                            break;
+                        case "DBFAIL_COUNT":
+                            DBFAIL_COUNT = Convert.ToInt16(lineConfig[1]);
+                            break;
+                        case "DBHB_TIME":
+                            DBHB_TIME = Convert.ToInt16(lineConfig[1]);
+                            break;                          
+                            //
                     }
                 }
 
@@ -1262,7 +1283,7 @@ namespace MZM_Rev_Aug_04
                                 MZM_Log(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", ex.Message + "[PING_WEIGHT]");
                             }
                             #endregion
-
+                            /*
                             #region PING_DB
                             try
                             {
@@ -1281,7 +1302,8 @@ namespace MZM_Rev_Aug_04
                                 MZM_Log(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", ex.Message + "[PING_DB]");
                             }
                             #endregion
-
+                            */
+                            retDB = "1";
                             retRES = retCAM + retWEIGHT + retDB + retCAM_2;
                         worker.ReportProgress(Int32.Parse(retRES));
                         }
@@ -1358,6 +1380,7 @@ namespace MZM_Rev_Aug_04
 
                     #endregion WEIGHT ALARM LED
 
+                    /*
                     #region DB ALARM LED
 
                     if (arrayLED[2] == '0')
@@ -1375,7 +1398,7 @@ namespace MZM_Rev_Aug_04
                     }
 
                     #endregion WEIGHT ALARM LED
-
+                    */
                     #region CAM ALARM LED 2
 
                     if (arrayLED[3] == '0')
@@ -1396,13 +1419,13 @@ namespace MZM_Rev_Aug_04
                 }
                 else
                 { // PING RETUNE !SUCCESS
-                    this.onlineLedDB.LedColor = Color.Yellow;
+                   // this.onlineLedDB.LedColor = Color.Yellow;
                     this.onlineLedCAM.LedColor = Color.Yellow;
                     this.onlineLedCAM_2.LedColor = Color.Yellow;
                     this.onlineLedWeight.LedColor = Color.Yellow;
                     this.almLedCAM.LedColor = Color.Red;
                     this.almLedWeight.LedColor = Color.Red;
-                    this.almLedDB.LedColor = Color.Red;
+                   // this.almLedDB.LedColor = Color.Red;
                 }
             }
             catch (Exception ex) {
@@ -1737,6 +1760,7 @@ namespace MZM_Rev_Aug_04
                 MZM_Log(System.Reflection.MethodBase.GetCurrentMethod().Name,"SYS",ex.Message);
             }
         }
+
 
         private void MZM_Log(string mod_name, string level, string msg)
         {
@@ -2231,7 +2255,127 @@ namespace MZM_Rev_Aug_04
             isRunning = false;
         }
 
-          
+
+        //@Oct 2019
+        private void MZM_DB_CHK_LOG(string mod_name, string level, string msg)
+        {
+            try
+            {
+                string appPath = System.IO.Path.GetDirectoryName(Assembly.GetEntryAssembly().Location);
+                string logName = appPath + @"\MZM_DB_CHK_" + DateTime.Today.ToString("ddMMyyyy") + ".log";
+
+                using (StreamWriter sw = new StreamWriter(logName, true))
+                {
+                    sw.WriteLine(DateTime.Now.ToString("dd-MMM-yyy HH:mm:ss ") + ":" + level + ":" + mod_name + ":" + msg);
+                    sw.Flush();
+                    sw.Close();
+                }
+
+            }
+            catch (Exception ex) { MessageBox.Show(ex.Message); }
+        }
+
+
+
+        private void backgroundWorker3_DoWork(object sender, DoWorkEventArgs e)
+        {
+            BackgroundWorker worker = sender as BackgroundWorker;
+            bool loop = true;
+            string retDB = "0";
+
+            do
+            {
+                if (worker.CancellationPending == true)
+                {
+                    e.Cancel = true;
+                    break;
+                }
+                else
+                {
+                        try
+                        {
+                            Ping myPing = new Ping();
+  
+                            #region PING_DB
+                            try
+                            {
+                                PingReply reply_db = myPing.Send(DB_IP, 250);
+                                if ((reply_db != null) & (reply_db.Status == IPStatus.Success))
+                                {
+                                    retDB = "1";
+                                }
+                                else
+                                {
+                                    retDB = "0";
+                                    noDBFailCount = noDBFailCount + 1;
+                                    MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Fail on DB Checking HB Number --> " + indexDBCount.ToString());
+                                }
+                               
+                            }
+                            catch (Exception ex) {
+                                retDB = "0";
+                                MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", ex.Message + "[PING_DB failure]");
+                                MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Fail on DB Checking HB Number --> " + indexDBCount.ToString());
+                            }
+
+                            indexDBCount = indexDBCount + 1;
+
+                            #endregion
+
+                            if (indexDBCount > DBLOOP_COUNT) {
+                                worker.ReportProgress(noDBFailCount);
+                                indexDBCount = 0;
+                                noDBFailCount = 0;
+                            }
+
+                        }
+                        catch (Exception ex)
+                        {
+                            MZM_Log(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", ex.Message + "[DO PING failure ]");
+                            worker.ReportProgress(999);
+                        }
+                    }
+
+                System.Threading.Thread.Sleep(1000);
+            }
+            while (loop);
+        }
+
+        private void backgroundWorker3_ProgressChanged(object sender, ProgressChangedEventArgs e)
+        {
+            try
+            {
+                if (e.ProgressPercentage != 999) {
+                    if (e.ProgressPercentage > DBFAIL_COUNT)
+                    {
+                        this.onlineLedDB.LedColor = Color.Red;
+                        setAlarmLedDB(true, "!!! DB IS NOT READY !!!");
+                        if (alarmFlag == false) { this.almLedDB.LedColor = Color.Red; }
+                        MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Alarm for DB checking , The failure over than threshold [" + e.ProgressPercentage.ToString() + "/" + DBFAIL_COUNT.ToString() + "]");
+                        //   this.almLedDB.LedColor = Color.Red;
+                    }
+                    else
+                    {
+                        this.onlineLedDB.LedColor = Color.Lime;
+                        setAlarmLedDB(false, "--");
+                        MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Normal state for DB checking , The failure not over than threshold [" + e.ProgressPercentage.ToString() + "/" + DBFAIL_COUNT.ToString() + "]");
+         
+
+                    }
+
+                }
+                else
+                { // PING RETUNE !SUCCESS
+                    this.onlineLedDB.LedColor = Color.Yellow;
+                    this.almLedDB.LedColor = Color.Red;
+                }
+            }
+            catch (Exception ex)
+            {
+                MZM_Log(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", ex.Message);
+            }
+        }
+        
         //-------------------------------------------------------------------------------------------------
     
 
@@ -2291,20 +2435,7 @@ namespace MZM_Rev_Aug_04
             lbAlarm.Text = "--";
         }
 
-
         #endregion
-
-
-
-      
-
-
-
-
-
-
-
-
 
 
 
