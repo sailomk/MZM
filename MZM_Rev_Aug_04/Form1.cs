@@ -120,6 +120,7 @@ namespace MZM_Rev_Aug_04
             txtWeight.Text = "";
             txtWeight.ReadOnly = true;
             txtWeight.BackColor = System.Drawing.SystemColors.Window;
+            this.onlineLedDB.LedColor = Color.Lime;
         }
 
         private void setGPIO(bool p)
@@ -2312,10 +2313,11 @@ namespace MZM_Rev_Aug_04
                                 }
                                
                             }
-                            catch (Exception ex) {
+                            catch (System.Net.NetworkInformation.PingException ex) {
                                 retDB = "0";
+                                noDBFailCount = noDBFailCount + 1;
                                 MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", ex.Message + "[PING_DB failure]");
-                                MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Fail on DB Checking HB Number --> " + indexDBCount.ToString());
+                              //  MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Fail on DB Checking HB Number --> " + indexDBCount.ToString());
                             }
 
                             indexDBCount = indexDBCount + 1;
@@ -2358,7 +2360,7 @@ namespace MZM_Rev_Aug_04
                     {
                         this.onlineLedDB.LedColor = Color.Lime;
                         setAlarmLedDB(false, "--");
-                        MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Normal state for DB checking , The failure not over than threshold [" + e.ProgressPercentage.ToString() + "/" + DBFAIL_COUNT.ToString() + "]");
+                       // MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Normal state for DB checking , The failure not over than threshold [" + e.ProgressPercentage.ToString() + "/" + DBFAIL_COUNT.ToString() + "]");
          
 
                     }
