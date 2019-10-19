@@ -2309,14 +2309,14 @@ namespace MZM_Rev_Aug_04
                                 {
                                     retDB = "0";
                                     noDBFailCount = noDBFailCount + 1;
-                                    MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Fail on DB Checking HB Number --> " + indexDBCount.ToString());
+                                    MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Checking DB faliure HB Number --> " + indexDBCount.ToString() +"  "+ DB_IP.ToString());
                                 }
                                
                             }
                             catch (System.Net.NetworkInformation.PingException ex) {
                                 retDB = "0";
                                 noDBFailCount = noDBFailCount + 1;
-                                MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", ex.Message + "[PING_DB failure]");
+                                MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", ex.Message + "[PING_DB failure]  " + indexDBCount.ToString() +"  "+ DB_IP.ToString());
                               //  MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Fail on DB Checking HB Number --> " + indexDBCount.ToString());
                             }
 

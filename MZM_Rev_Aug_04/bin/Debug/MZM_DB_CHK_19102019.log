@@ -1,0 +1,302 @@
+19-Oct-2019 02:11:00 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 0
+19-Oct-2019 02:11:02 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 1
+19-Oct-2019 02:11:03 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 2
+19-Oct-2019 02:11:05 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 3
+19-Oct-2019 02:11:06 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 4
+19-Oct-2019 02:11:08 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 5
+19-Oct-2019 02:11:09 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 6
+19-Oct-2019 02:11:11 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 7
+19-Oct-2019 02:11:12 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 8
+19-Oct-2019 02:11:14 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 9
+19-Oct-2019 02:11:15 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 10
+19-Oct-2019 02:11:15 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:11:17 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 0
+19-Oct-2019 02:14:36 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 0
+19-Oct-2019 02:14:37 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 1
+19-Oct-2019 02:14:39 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 2
+19-Oct-2019 02:14:40 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 3
+19-Oct-2019 02:14:42 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 4
+19-Oct-2019 02:14:43 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 5
+19-Oct-2019 02:16:33 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 0
+19-Oct-2019 02:16:35 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 1
+19-Oct-2019 02:16:36 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 2
+19-Oct-2019 02:16:38 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 3
+19-Oct-2019 02:16:39 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 4
+19-Oct-2019 02:16:41 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 5
+19-Oct-2019 02:16:42 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 6
+19-Oct-2019 02:16:44 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 7
+19-Oct-2019 02:16:45 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 8
+19-Oct-2019 02:16:47 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 9
+19-Oct-2019 02:16:48 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 10
+19-Oct-2019 02:16:48 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:16:50 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 0
+19-Oct-2019 02:16:51 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 1
+19-Oct-2019 02:16:53 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 2
+19-Oct-2019 02:16:54 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 3
+19-Oct-2019 02:16:56 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 4
+19-Oct-2019 02:16:57 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 5
+19-Oct-2019 02:16:59 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 6
+19-Oct-2019 02:17:00 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 7
+19-Oct-2019 02:17:02 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 8
+19-Oct-2019 02:17:03 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 9
+19-Oct-2019 02:17:05 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 10
+19-Oct-2019 02:17:05 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:17:06 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 0
+19-Oct-2019 02:17:08 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 1
+19-Oct-2019 02:17:09 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 2
+19-Oct-2019 02:17:11 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 3
+19-Oct-2019 02:17:12 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 4
+19-Oct-2019 02:17:14 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 5
+19-Oct-2019 02:17:15 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 6
+19-Oct-2019 02:17:17 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 7
+19-Oct-2019 02:17:18 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 8
+19-Oct-2019 02:17:20 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 9
+19-Oct-2019 02:17:21 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 10
+19-Oct-2019 02:17:21 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:17:23 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 0
+19-Oct-2019 02:17:24 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 1
+19-Oct-2019 02:17:26 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 2
+19-Oct-2019 02:17:27 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 3
+19-Oct-2019 02:17:29 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 4
+19-Oct-2019 02:17:30 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 5
+19-Oct-2019 02:17:32 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 6
+19-Oct-2019 02:17:33 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 7
+19-Oct-2019 02:17:35 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 8
+19-Oct-2019 02:17:36 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 9
+19-Oct-2019 02:17:38 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 10
+19-Oct-2019 02:17:38 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:17:39 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 0
+19-Oct-2019 02:17:41 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 1
+19-Oct-2019 02:17:42 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 2
+19-Oct-2019 02:17:44 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 3
+19-Oct-2019 02:17:45 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 4
+19-Oct-2019 02:17:47 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 5
+19-Oct-2019 02:17:48 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 6
+19-Oct-2019 02:17:50 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 7
+19-Oct-2019 02:17:51 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 8
+19-Oct-2019 02:17:53 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 9
+19-Oct-2019 02:17:54 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 10
+19-Oct-2019 02:17:54 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:17:56 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 0
+19-Oct-2019 02:17:57 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 1
+19-Oct-2019 02:17:59 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 2
+19-Oct-2019 02:18:00 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 3
+19-Oct-2019 02:18:02 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 4
+19-Oct-2019 02:18:03 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 5
+19-Oct-2019 02:18:05 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 6
+19-Oct-2019 02:18:06 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 7
+19-Oct-2019 02:18:08 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 8
+19-Oct-2019 02:18:09 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 9
+19-Oct-2019 02:18:11 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 10
+19-Oct-2019 02:18:11 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:18:12 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 0
+19-Oct-2019 02:18:14 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 1
+19-Oct-2019 02:18:15 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 2
+19-Oct-2019 02:18:17 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 3
+19-Oct-2019 02:18:18 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 4
+19-Oct-2019 02:18:20 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 5
+19-Oct-2019 02:18:21 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 6
+19-Oct-2019 02:18:23 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 7
+19-Oct-2019 02:18:24 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 8
+19-Oct-2019 02:18:26 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 9
+19-Oct-2019 02:18:27 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 10
+19-Oct-2019 02:18:27 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:20:52 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 0
+19-Oct-2019 02:20:53 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 1
+19-Oct-2019 02:20:55 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 2
+19-Oct-2019 02:20:56 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 3
+19-Oct-2019 02:20:58 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 4
+19-Oct-2019 02:20:59 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 5
+19-Oct-2019 02:21:01 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 6
+19-Oct-2019 02:21:02 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 7
+19-Oct-2019 02:21:04 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 8
+19-Oct-2019 02:21:05 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 9
+19-Oct-2019 02:21:07 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 10
+19-Oct-2019 02:21:07 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:21:08 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 0
+19-Oct-2019 02:21:10 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 1
+19-Oct-2019 02:21:11 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 2
+19-Oct-2019 02:21:13 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 3
+19-Oct-2019 02:21:14 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 4
+19-Oct-2019 02:21:16 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 5
+19-Oct-2019 02:21:17 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 6
+19-Oct-2019 02:21:19 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 7
+19-Oct-2019 02:21:20 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 8
+19-Oct-2019 02:21:22 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 9
+19-Oct-2019 02:21:23 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 10
+19-Oct-2019 02:21:23 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:21:25 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 0
+19-Oct-2019 02:21:26 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 1
+19-Oct-2019 02:21:28 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 2
+19-Oct-2019 02:21:29 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 3
+19-Oct-2019 02:21:31 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 4
+19-Oct-2019 02:21:32 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 5
+19-Oct-2019 02:21:34 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 6
+19-Oct-2019 02:21:35 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 7
+19-Oct-2019 02:21:37 :SYS:backgroundWorker3_DoWork:Fail on DB Checking HB Number --> 8
+19-Oct-2019 02:29:35 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0192.168.1.54
+19-Oct-2019 02:29:36 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1192.168.1.54
+19-Oct-2019 02:29:37 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2192.168.1.54
+19-Oct-2019 02:29:38 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3192.168.1.54
+19-Oct-2019 02:29:39 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 4192.168.1.54
+19-Oct-2019 02:29:40 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 5192.168.1.54
+19-Oct-2019 02:29:41 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 6192.168.1.54
+19-Oct-2019 02:29:42 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 7192.168.1.54
+19-Oct-2019 02:29:43 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 8192.168.1.54
+19-Oct-2019 02:29:44 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 9192.168.1.54
+19-Oct-2019 02:29:45 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 10192.168.1.54
+19-Oct-2019 02:29:45 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:29:46 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0192.168.1.54
+19-Oct-2019 02:29:47 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1192.168.1.54
+19-Oct-2019 02:29:48 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2192.168.1.54
+19-Oct-2019 02:29:49 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3192.168.1.54
+19-Oct-2019 02:29:50 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 4192.168.1.54
+19-Oct-2019 02:29:51 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 5192.168.1.54
+19-Oct-2019 02:29:52 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 6192.168.1.54
+19-Oct-2019 02:29:53 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 7192.168.1.54
+19-Oct-2019 02:29:54 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 8192.168.1.54
+19-Oct-2019 02:29:55 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 9192.168.1.54
+19-Oct-2019 02:29:56 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 10192.168.1.54
+19-Oct-2019 02:29:56 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:29:57 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0192.168.1.54
+19-Oct-2019 02:29:58 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1192.168.1.54
+19-Oct-2019 02:29:59 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2192.168.1.54
+19-Oct-2019 02:30:00 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3192.168.1.54
+19-Oct-2019 02:30:01 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 4192.168.1.54
+19-Oct-2019 02:30:02 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 5192.168.1.54
+19-Oct-2019 02:30:03 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 6192.168.1.54
+19-Oct-2019 02:30:04 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 7192.168.1.54
+19-Oct-2019 02:30:05 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 8192.168.1.54
+19-Oct-2019 02:30:06 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 9192.168.1.54
+19-Oct-2019 02:30:07 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 10192.168.1.54
+19-Oct-2019 02:30:07 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:30:08 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0192.168.1.54
+19-Oct-2019 02:30:09 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1192.168.1.54
+19-Oct-2019 02:30:10 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2192.168.1.54
+19-Oct-2019 02:30:11 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3192.168.1.54
+19-Oct-2019 02:30:12 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 4192.168.1.54
+19-Oct-2019 02:30:13 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 5192.168.1.54
+19-Oct-2019 02:30:14 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 6192.168.1.54
+19-Oct-2019 02:30:15 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 7192.168.1.54
+19-Oct-2019 02:30:16 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 8192.168.1.54
+19-Oct-2019 02:30:17 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 9192.168.1.54
+19-Oct-2019 02:30:18 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 10192.168.1.54
+19-Oct-2019 02:30:18 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:30:19 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0192.168.1.54
+19-Oct-2019 02:30:20 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1192.168.1.54
+19-Oct-2019 02:30:21 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2192.168.1.54
+19-Oct-2019 02:30:22 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3192.168.1.54
+19-Oct-2019 02:30:23 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 4192.168.1.54
+19-Oct-2019 02:30:24 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 5192.168.1.54
+19-Oct-2019 02:30:25 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 6192.168.1.54
+19-Oct-2019 02:30:26 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 7192.168.1.54
+19-Oct-2019 02:30:27 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 8192.168.1.54
+19-Oct-2019 02:30:28 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 9192.168.1.54
+19-Oct-2019 02:30:29 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 10192.168.1.54
+19-Oct-2019 02:30:29 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:30:30 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0192.168.1.54
+19-Oct-2019 02:30:31 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1192.168.1.54
+19-Oct-2019 02:30:32 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2192.168.1.54
+19-Oct-2019 02:30:33 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3192.168.1.54
+19-Oct-2019 02:30:34 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 4192.168.1.54
+19-Oct-2019 02:30:35 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 5192.168.1.54
+19-Oct-2019 02:30:36 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 6192.168.1.54
+19-Oct-2019 02:30:37 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 7192.168.1.54
+19-Oct-2019 02:30:38 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 8192.168.1.54
+19-Oct-2019 02:30:39 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 9192.168.1.54
+19-Oct-2019 02:30:40 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 10192.168.1.54
+19-Oct-2019 02:30:40 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:30:41 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0192.168.1.54
+19-Oct-2019 02:30:42 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1192.168.1.54
+19-Oct-2019 02:30:43 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2192.168.1.54
+19-Oct-2019 02:30:44 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3192.168.1.54
+19-Oct-2019 02:30:45 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 4192.168.1.54
+19-Oct-2019 02:30:46 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 5192.168.1.54
+19-Oct-2019 02:30:47 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 6192.168.1.54
+19-Oct-2019 02:30:48 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 7192.168.1.54
+19-Oct-2019 02:30:49 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 8192.168.1.54
+19-Oct-2019 02:30:50 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 9192.168.1.54
+19-Oct-2019 02:30:51 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 10192.168.1.54
+19-Oct-2019 02:30:51 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:30:52 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0192.168.1.54
+19-Oct-2019 02:30:53 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1192.168.1.54
+19-Oct-2019 02:30:54 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2192.168.1.54
+19-Oct-2019 02:30:55 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3192.168.1.54
+19-Oct-2019 02:30:56 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 4192.168.1.54
+19-Oct-2019 02:30:57 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 5192.168.1.54
+19-Oct-2019 02:30:58 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 6192.168.1.54
+19-Oct-2019 02:30:59 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 7192.168.1.54
+19-Oct-2019 02:31:00 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 8192.168.1.54
+19-Oct-2019 02:31:01 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 9192.168.1.54
+19-Oct-2019 02:31:02 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 10192.168.1.54
+19-Oct-2019 02:31:02 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:31:03 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0192.168.1.54
+19-Oct-2019 02:32:49 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0  192.168.1.54
+19-Oct-2019 02:32:50 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1  192.168.1.54
+19-Oct-2019 02:32:51 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2  192.168.1.54
+19-Oct-2019 02:32:52 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3  192.168.1.54
+19-Oct-2019 02:32:53 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 4  192.168.1.54
+19-Oct-2019 02:32:54 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 5  192.168.1.54
+19-Oct-2019 02:32:55 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 6  192.168.1.54
+19-Oct-2019 02:32:56 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 7  192.168.1.54
+19-Oct-2019 02:32:57 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 8  192.168.1.54
+19-Oct-2019 02:32:58 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 9  192.168.1.54
+19-Oct-2019 02:32:59 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 10  192.168.1.54
+19-Oct-2019 02:32:59 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:33:00 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0  192.168.1.54
+19-Oct-2019 02:33:01 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1  192.168.1.54
+19-Oct-2019 02:33:02 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2  192.168.1.54
+19-Oct-2019 02:33:03 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3  192.168.1.54
+19-Oct-2019 02:33:04 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 4  192.168.1.54
+19-Oct-2019 02:33:05 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 5  192.168.1.54
+19-Oct-2019 02:33:06 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 6  192.168.1.54
+19-Oct-2019 02:33:07 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 7  192.168.1.54
+19-Oct-2019 02:33:08 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 8  192.168.1.54
+19-Oct-2019 02:33:09 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 9  192.168.1.54
+19-Oct-2019 02:33:10 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 10  192.168.1.54
+19-Oct-2019 02:33:10 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:33:11 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0  192.168.1.54
+19-Oct-2019 02:33:12 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1  192.168.1.54
+19-Oct-2019 02:33:13 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2  192.168.1.54
+19-Oct-2019 02:33:14 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3  192.168.1.54
+19-Oct-2019 02:33:15 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 4  192.168.1.54
+19-Oct-2019 02:33:16 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 5  192.168.1.54
+19-Oct-2019 02:33:17 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 6  192.168.1.54
+19-Oct-2019 02:33:18 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 7  192.168.1.54
+19-Oct-2019 02:33:19 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 8  192.168.1.54
+19-Oct-2019 02:33:20 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 9  192.168.1.54
+19-Oct-2019 02:33:21 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 10  192.168.1.54
+19-Oct-2019 02:33:21 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:33:22 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0  192.168.1.54
+19-Oct-2019 02:33:23 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1  192.168.1.54
+19-Oct-2019 02:33:24 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2  192.168.1.54
+19-Oct-2019 02:33:25 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3  192.168.1.54
+19-Oct-2019 02:33:26 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 4  192.168.1.54
+19-Oct-2019 02:33:27 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 5  192.168.1.54
+19-Oct-2019 02:33:28 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 6  192.168.1.54
+19-Oct-2019 02:33:29 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 7  192.168.1.54
+19-Oct-2019 02:33:30 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 8  192.168.1.54
+19-Oct-2019 02:33:31 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 9  192.168.1.54
+19-Oct-2019 02:33:32 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 10  192.168.1.54
+19-Oct-2019 02:33:32 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]
+19-Oct-2019 02:33:33 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0  192.168.1.54
+19-Oct-2019 02:33:34 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1  192.168.1.54
+19-Oct-2019 02:33:35 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2  192.168.1.54
+19-Oct-2019 02:33:36 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3  192.168.1.54
+19-Oct-2019 08:15:20 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0  192.168.1.54
+19-Oct-2019 08:15:22 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1  192.168.1.54
+19-Oct-2019 08:15:23 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2  192.168.1.54
+19-Oct-2019 08:15:25 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3  192.168.1.54
+19-Oct-2019 08:15:26 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 4  192.168.1.54
+19-Oct-2019 08:17:19 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 0  192.168.1.54
+19-Oct-2019 08:17:21 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 1  192.168.1.54
+19-Oct-2019 08:17:22 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 2  192.168.1.54
+19-Oct-2019 08:17:24 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 3  192.168.1.54
+19-Oct-2019 08:17:25 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 4  192.168.1.54
+19-Oct-2019 08:17:27 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 5  192.168.1.54
+19-Oct-2019 08:17:28 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 6  192.168.1.54
+19-Oct-2019 08:17:30 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 7  192.168.1.54
+19-Oct-2019 08:17:31 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 8  192.168.1.54
+19-Oct-2019 08:17:33 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 9  192.168.1.54
+19-Oct-2019 08:17:34 :SYS:backgroundWorker3_DoWork:Checking DB faliure HB Number --> 10  192.168.1.54
+19-Oct-2019 08:17:34 :SYS:backgroundWorker3_ProgressChanged:Alarm for DB checking , The failure over than threshold [11/5]

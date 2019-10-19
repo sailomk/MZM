@@ -1,0 +1,232 @@
+19-Oct-2019 02:10:56 :USR:Form1_Load:----------------------------------------------------
+19-Oct-2019 02:10:56 :USR:Form1_Load:Program is started
+19-Oct-2019 02:10:56 :USR:initGPIO: Open serial port SUCCESS  
+19-Oct-2019 02:10:56 :USR:initGPIO: Send pattern select command succeed!   
+19-Oct-2019 02:10:59 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:10:59 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+19-Oct-2019 02:10:59 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+19-Oct-2019 02:11:02 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:11:02 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:11:03 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:11:04 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:11:04 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:11:04 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:11:05 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:11:06 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:11:07 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:11:07 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:11:08 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:11:09 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:11:10 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:11:12 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:11:13 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:11:14 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:11:15 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:11:17 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:14:31 :USR:Form1_Load:----------------------------------------------------
+19-Oct-2019 02:14:31 :USR:Form1_Load:Program is started
+19-Oct-2019 02:14:31 :USR:initGPIO: Open serial port SUCCESS  
+19-Oct-2019 02:14:31 :USR:initGPIO: Send pattern select command succeed!   
+19-Oct-2019 02:14:34 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:14:34 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+19-Oct-2019 02:14:34 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+19-Oct-2019 02:14:37 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:14:37 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:14:38 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:14:39 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:14:41 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:14:41 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:14:42 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:14:42 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:14:43 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:29 :USR:Form1_Load:----------------------------------------------------
+19-Oct-2019 02:16:29 :USR:Form1_Load:Program is started
+19-Oct-2019 02:16:29 :USR:initGPIO: Open serial port SUCCESS  
+19-Oct-2019 02:16:29 :USR:initGPIO: Send pattern select command succeed!   
+19-Oct-2019 02:16:32 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:16:32 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+19-Oct-2019 02:16:32 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+19-Oct-2019 02:16:35 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:35 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:16:36 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:37 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:38 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:39 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:41 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:42 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:43 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:44 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:46 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:46 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:16:47 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:47 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:16:48 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:16:48 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:48 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:16:50 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:16:50 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:50 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:16:51 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:52 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:53 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:54 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:16:55 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:55 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:16:56 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:57 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:16:58 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:00 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:01 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:02 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:03 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:05 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:06 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:07 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:08 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:10 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:11 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:12 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:13 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:14 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:16 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:17 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:18 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:19 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:21 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:22 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:23 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:24 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:26 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:27 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:28 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:29 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:31 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:32 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:33 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:34 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:36 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:37 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:17:37 :USR:connectWeight:  Weight Max Retry timed out 50x200 = 10 Secs
+19-Oct-2019 02:17:49 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:17:54 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:18:04 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:18:11 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:18:15 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:18:27 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:20:47 :USR:Form1_Load:----------------------------------------------------
+19-Oct-2019 02:20:47 :USR:Form1_Load:Program is started
+19-Oct-2019 02:20:47 :USR:initGPIO: Open serial port SUCCESS  
+19-Oct-2019 02:20:47 :USR:initGPIO: Send pattern select command succeed!   
+19-Oct-2019 02:20:50 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:20:50 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+19-Oct-2019 02:20:50 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+19-Oct-2019 02:20:53 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:20:53 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:20:54 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:20:56 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:20:57 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:20:58 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:20:59 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:01 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:02 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:03 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:04 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:06 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:07 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:08 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:09 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:11 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:12 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:13 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:15 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:16 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:17 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:19 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:20 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:21 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:22 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:24 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:25 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:26 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:27 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:29 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:30 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:31 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:32 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:34 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:35 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:36 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:21:37 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:22:04 :USR:Form1_Load:----------------------------------------------------
+19-Oct-2019 02:22:04 :USR:Form1_Load:Program is started
+19-Oct-2019 02:22:04 :USR:initGPIO: Open serial port SUCCESS  
+19-Oct-2019 02:22:04 :USR:initGPIO: Send pattern select command succeed!   
+19-Oct-2019 02:22:07 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:22:07 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+19-Oct-2019 02:22:07 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+19-Oct-2019 02:22:10 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:22:10 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:22:12 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:22:13 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:22:14 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:22:15 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:22:16 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:22:18 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:22:19 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:22:20 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:22:21 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:22:21 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:22:21 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:22:23 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:22:24 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:22:25 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 02:29:31 :USR:Form1_Load:----------------------------------------------------
+19-Oct-2019 02:29:31 :USR:Form1_Load:Program is started
+19-Oct-2019 02:29:31 :USR:initGPIO: Open serial port SUCCESS  
+19-Oct-2019 02:29:31 :USR:initGPIO: Send pattern select command succeed!   
+19-Oct-2019 02:29:34 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:29:34 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+19-Oct-2019 02:29:34 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+19-Oct-2019 02:29:45 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:32:45 :USR:Form1_Load:----------------------------------------------------
+19-Oct-2019 02:32:45 :USR:Form1_Load:Program is started
+19-Oct-2019 02:32:45 :USR:initGPIO: Open serial port SUCCESS  
+19-Oct-2019 02:32:45 :USR:initGPIO: Send pattern select command succeed!   
+19-Oct-2019 02:32:48 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 02:32:48 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+19-Oct-2019 02:32:48 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+19-Oct-2019 02:32:59 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 08:15:16 :USR:Form1_Load:----------------------------------------------------
+19-Oct-2019 08:15:16 :USR:Form1_Load:Program is started
+19-Oct-2019 08:15:16 :USR:initGPIO: Open serial port SUCCESS  
+19-Oct-2019 08:15:16 :USR:initGPIO: Send pattern select command succeed!   
+19-Oct-2019 08:15:19 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 08:15:19 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+19-Oct-2019 08:15:19 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+19-Oct-2019 08:15:22 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:15:22 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 08:15:23 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:15:24 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:15:25 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:15:27 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:17:15 :USR:Form1_Load:----------------------------------------------------
+19-Oct-2019 08:17:15 :USR:Form1_Load:Program is started
+19-Oct-2019 08:17:15 :USR:initGPIO: Open serial port SUCCESS  
+19-Oct-2019 08:17:15 :USR:initGPIO: Send pattern select command succeed!   
+19-Oct-2019 08:17:18 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 08:17:18 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+19-Oct-2019 08:17:18 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+19-Oct-2019 08:17:21 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:17:21 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 08:17:22 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:17:23 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:17:25 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:17:26 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:17:27 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:17:28 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:17:30 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:17:31 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:17:32 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:17:32 :USR:setGPIO:Send SINGLE parameter command succeed!
+19-Oct-2019 08:17:33 :SYS:connectWeight:No connection could be made because the target machine actively refused it 127.0.0.1:23 [PIPE IS BROKEN]
+19-Oct-2019 08:17:33 :USR:setGPIO:Send SINGLE parameter command succeed!
