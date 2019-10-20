@@ -11,3 +11,16 @@ D:\Proj-Mizumi\MZM_Rev_Aug_04\MZM_Rev_Aug_04\bin\Debug\tcpServer.dll
 D:\Proj-Mizumi\MZM_Rev_Aug_04\MZM_Rev_Aug_04\bin\Debug\tcpServer.pdb
 D:\Proj-Mizumi\MZM_Rev_Aug_04\MZM_Rev_Aug_04\bin\Debug\LBIndustrialCtrls.dll
 D:\Proj-Mizumi\MZM_Rev_Aug_04\MZM_Rev_Aug_04\bin\Debug\LBIndustrialCtrls.pdb
+D:\Proj-Mizumi\MZM\MZM_Rev_Aug_04\bin\Debug\MZM_Rev_Aug_04.exe.config
+D:\Proj-Mizumi\MZM\MZM_Rev_Aug_04\obj\Debug\MZM_Rev_Aug_04.exe
+D:\Proj-Mizumi\MZM\MZM_Rev_Aug_04\obj\Debug\MZM_Rev_Aug_04.pdb
+D:\Proj-Mizumi\MZM\MZM_Rev_Aug_04\bin\Debug\MZM_Rev_Aug_04.exe
+D:\Proj-Mizumi\MZM\MZM_Rev_Aug_04\bin\Debug\MZM_Rev_Aug_04.pdb
+D:\Proj-Mizumi\MZM\MZM_Rev_Aug_04\bin\Debug\LBIndustrialCtrls.dll
+D:\Proj-Mizumi\MZM\MZM_Rev_Aug_04\bin\Debug\tcpServer.dll
+D:\Proj-Mizumi\MZM\MZM_Rev_Aug_04\bin\Debug\LBIndustrialCtrls.pdb
+D:\Proj-Mizumi\MZM\MZM_Rev_Aug_04\bin\Debug\tcpServer.pdb
+D:\Proj-Mizumi\MZM\MZM_Rev_Aug_04\obj\Debug\MZM_Rev_Aug_04.csprojResolveAssemblyReference.cache
+D:\Proj-Mizumi\MZM\MZM_Rev_Aug_04\obj\Debug\MZM_Rev_Aug_04.Form1.resources
+D:\Proj-Mizumi\MZM\MZM_Rev_Aug_04\obj\Debug\MZM_Rev_Aug_04.Properties.Resources.resources
+D:\Proj-Mizumi\MZM\MZM_Rev_Aug_04\obj\Debug\MZM_Rev_Aug_04.csproj.GenerateResource.Cache

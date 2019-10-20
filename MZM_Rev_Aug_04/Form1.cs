@@ -2283,6 +2283,8 @@ namespace MZM_Rev_Aug_04
             BackgroundWorker worker = sender as BackgroundWorker;
             bool loop = true;
             string retDB = "0";
+            string[] res_ping = new string[DBLOOP_COUNT];
+
 
             do
             {
@@ -2304,19 +2306,22 @@ namespace MZM_Rev_Aug_04
                                 if ((reply_db != null) & (reply_db.Status == IPStatus.Success))
                                 {
                                     retDB = "1";
+                                    res_ping[indexDBCount] = "-";
                                 }
                                 else
                                 {
                                     retDB = "0";
                                     noDBFailCount = noDBFailCount + 1;
-                                    MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Fail on DB Checking HB Number --> " + indexDBCount.ToString());
+                                    res_ping[indexDBCount] = "x";
+                                    //MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Checking DB faliure HB Number --> " + indexDBCount.ToString() +"  "+ DB_IP.ToString());
                                 }
                                
                             }
                             catch (System.Net.NetworkInformation.PingException ex) {
                                 retDB = "0";
                                 noDBFailCount = noDBFailCount + 1;
-                                MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", ex.Message + "[PING_DB failure]");
+                                res_ping[indexDBCount] = "x";
+                              //  MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", ex.Message + "[PING_DB failure]  " + indexDBCount.ToString() +"  "+ DB_IP.ToString());
                               //  MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Fail on DB Checking HB Number --> " + indexDBCount.ToString());
                             }
 
@@ -2324,21 +2329,28 @@ namespace MZM_Rev_Aug_04
 
                             #endregion
 
-                            if (indexDBCount > DBLOOP_COUNT) {
+                            if (indexDBCount > (DBLOOP_COUNT-1)) {
                                 worker.ReportProgress(noDBFailCount);
                                 indexDBCount = 0;
                                 noDBFailCount = 0;
+                                if (Array.Exists(res_ping, element => element == "x"))
+                                {
+                                    string printPing = string.Join(" | ", res_ping);
+                                    MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", "Checking DB result | " + printPing + " | " + DB_IP.ToString());
+                                }
+                                   Array.Clear(res_ping, 0, res_ping.Length);
                             }
 
                         }
                         catch (Exception ex)
                         {
-                            MZM_Log(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", ex.Message + "[DO PING failure ]");
+                            MZM_DB_CHK_LOG(System.Reflection.MethodBase.GetCurrentMethod().Name, "SYS", ex.Message + "[DO PING failure ]");
                             worker.ReportProgress(999);
+                            Array.Clear(res_ping, 0, res_ping.Length);
                         }
                     }
 
-                System.Threading.Thread.Sleep(1000);
+                System.Threading.Thread.Sleep(DBHB_TIME);
             }
             while (loop);
         }

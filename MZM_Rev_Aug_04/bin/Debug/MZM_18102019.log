@@ -1,0 +1,76 @@
+18-Oct-2019 12:35:37 :USR:Form1_Load:----------------------------------------------------
+18-Oct-2019 12:35:37 :USR:Form1_Load:Program is started
+18-Oct-2019 12:35:37 :USR:initGPIO: Open serial port SUCCESS  
+18-Oct-2019 12:35:37 :USR:initGPIO: Send pattern select command succeed!   
+18-Oct-2019 12:35:40 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 12:35:40 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+18-Oct-2019 12:35:40 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+18-Oct-2019 12:35:41 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 12:35:47 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 12:35:49 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 16:24:09 :USR:Form1_Load:----------------------------------------------------
+18-Oct-2019 16:24:09 :USR:Form1_Load:Program is started
+18-Oct-2019 16:24:09 :USR:initGPIO: Open serial port SUCCESS  
+18-Oct-2019 16:24:09 :USR:initGPIO: Send pattern select command succeed!   
+18-Oct-2019 16:24:12 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 16:24:13 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+18-Oct-2019 16:24:13 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+18-Oct-2019 16:26:42 :USR:Form1_Load:----------------------------------------------------
+18-Oct-2019 16:26:42 :USR:Form1_Load:Program is started
+18-Oct-2019 16:26:42 :USR:initGPIO: Open serial port SUCCESS  
+18-Oct-2019 16:26:42 :USR:initGPIO: Send pattern select command succeed!   
+18-Oct-2019 16:26:45 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 16:26:45 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+18-Oct-2019 16:26:46 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+18-Oct-2019 16:29:55 :USR:Form1_Load:----------------------------------------------------
+18-Oct-2019 16:29:55 :USR:Form1_Load:Program is started
+18-Oct-2019 16:29:55 :USR:initGPIO: Open serial port SUCCESS  
+18-Oct-2019 16:29:55 :USR:initGPIO: Send pattern select command succeed!   
+18-Oct-2019 16:29:58 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 16:29:58 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+18-Oct-2019 16:29:58 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+18-Oct-2019 19:07:18 :USR:Form1_Load:----------------------------------------------------
+18-Oct-2019 19:07:18 :USR:Form1_Load:Program is started
+18-Oct-2019 19:07:18 :USR:initGPIO: Open serial port SUCCESS  
+18-Oct-2019 19:07:18 :USR:initGPIO: Send pattern select command succeed!   
+18-Oct-2019 19:07:20 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 19:07:20 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+18-Oct-2019 19:07:20 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+18-Oct-2019 19:11:51 :USR:Form1_Load:----------------------------------------------------
+18-Oct-2019 19:11:51 :USR:Form1_Load:Program is started
+18-Oct-2019 19:11:51 :USR:initGPIO: Open serial port SUCCESS  
+18-Oct-2019 19:11:51 :USR:initGPIO: Send pattern select command succeed!   
+18-Oct-2019 19:11:54 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 19:11:54 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+18-Oct-2019 19:11:54 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+18-Oct-2019 19:13:36 :USR:Form1_Load:----------------------------------------------------
+18-Oct-2019 19:13:36 :USR:Form1_Load:Program is started
+18-Oct-2019 19:13:36 :USR:initGPIO: Open serial port SUCCESS  
+18-Oct-2019 19:13:36 :USR:initGPIO: Send pattern select command succeed!   
+18-Oct-2019 19:13:39 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 19:13:39 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+18-Oct-2019 19:13:39 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+18-Oct-2019 19:14:40 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 19:15:33 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 19:15:45 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 19:15:52 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 19:37:15 :USR:Form1_Load:----------------------------------------------------
+18-Oct-2019 19:37:15 :USR:Form1_Load:Program is started
+18-Oct-2019 19:37:15 :USR:initGPIO: Open serial port SUCCESS  
+18-Oct-2019 19:37:15 :USR:initGPIO: Send pattern select command succeed!   
+18-Oct-2019 19:37:18 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 19:37:18 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+18-Oct-2019 19:37:18 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+18-Oct-2019 19:38:02 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 19:38:28 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 19:42:59 :USR:Form1_Load:----------------------------------------------------
+18-Oct-2019 19:42:59 :USR:Form1_Load:Program is started
+18-Oct-2019 19:42:59 :USR:initGPIO: Open serial port SUCCESS  
+18-Oct-2019 19:42:59 :USR:initGPIO: Send pattern select command succeed!   
+18-Oct-2019 19:43:02 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 19:43:02 :USR:openTcpPort: QR CAM#1 Receiver Port 3000 is Started
+18-Oct-2019 19:43:02 :USR:openTcpPort: QR CAM#2 Receiver Port 3001 is Started
+18-Oct-2019 19:43:24 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 19:43:45 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 19:44:30 :USR:setGPIO:Send SINGLE parameter command succeed!
+18-Oct-2019 19:44:34 :USR:setGPIO:Send SINGLE parameter command succeed!
